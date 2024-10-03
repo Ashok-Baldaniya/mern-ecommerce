@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./Navbar.css";
-import logo from "../Assets/ecom-logo.png";
-import cart from "../Assets/ecom-cart.png";
+import logo from "../Assets/logo_big.png";
+import cart from "../Assets/cart_icon.png";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {

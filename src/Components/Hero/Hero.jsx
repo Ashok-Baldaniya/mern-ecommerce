@@ -1,8 +1,8 @@
 import React from "react";
 import "./Hero.css";
-import logo from "../Assets/ecom-logo.png";
-import arIcon from "../Assets/ecom-logo.png";
-import heroImage from "../Assets/ecom-logo.png";
+import logo from "../Assets/logo.png";
+import arIcon from "../Assets/arrow.png";
+import heroImage from "../Assets/hero_image.png";
 
 const Hero = () => {
   return (
